@@ -29,7 +29,9 @@
     "lint": "eslint \"src/**/*.{js,jsx,ts,tsx}\"",
     "lint:fix": "eslint --fix \"src/**/*.{js,jsx,ts,tsx}\"",
     "prettier": "prettier --write \"src/**/*.{js,jsx,ts,tsx}\"",
-    "knip": "knip"
+    "knip": "knip",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "overrides": {
     "autoprefixer": "10.4.5"
@@ -64,6 +66,7 @@
     "eslint-plugin-prettier": "^5.2.1",
     "eslint-plugin-react": "^7.37.2",
     "eslint-plugin-react-hooks": "^5.0.0",
+    "gh-pages": "^6.3.0",
     "knip": "^5.30.6",
     "prettier": "^3.4.1",
     "sass": "1.77.6"

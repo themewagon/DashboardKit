@@ -1,18 +1,32 @@
-# Dashboardkit Free Admin Template
+# DashboardKit Free React Admin Dashboard Template
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/codedthemes/gradient-able-free-admin-template/blob/master/LICENSE)
+#### Preview
 
-Dashboardkit Pro is a free admin dashboard template built with different technologies. It is designed to offer an exceptional User Experience, with a wide range of customizable and feature-rich pages. Dashboardkit serves as a comprehensive Dashboard Template, boasting a user-friendly and responsive design that adapts seamlessly to retina screens as well as laptops.
+ - [Demo](https://themewagon.github.io//)
 
-:star: :star: :star: Do not forget to star (Top right of this page) it if you like the theme :star: :star: :star:
+#### Download
+ - [Download from ThemeWagon]( https://themewagon.com/themes/)
+ 
+ 
+## Getting Started
 
-## Free Dashboardkit versions
+Clone from Github 
+```
+https://github.com/themewagon/Gradient-Able-free-bootstrap-admin-template.git
+```
+## Run Local Server
+```
+npm run start
+```
 
-- [Bootstrap](https://github.com/codedthemes/dashboardkit-free-admin-template/tree/main/bootstrap)
-- [React](https://github.com/codedthemes/dashboardkit-free-admin-template/tree/main/react)
+## Author
 
-## Premium Gradient versions
+Design and code is completely written by CodedThemes's design and development team.  
 
-- [Bootstrap](https://codedthemes.com/item/dashboardkit-bootstrap-5-admin-template/)
-- [React](https://codedthemes.com/item/dashboardkit-react-admin-template/)
+
+## License
+
+ - Design and Code is Copyright &copy; [CodedThemes](https://www.codedthemes.com)
+ - Licensed cover under [MIT]
+ - Distributed by [ThemeWagon](https://themewagon.com)
+
