@@ -2,6 +2,8 @@
   "name": "dashboard-kit-react",
   "version": "3.0.0",
   "private": true,
+  "homepage": "https://your-username.github.io/DashboardKit",
+
   "dependencies": {
     "@tanem/react-nprogress": "^5.0.53",
     "@vitejs/plugin-react": "^4.3.4",
