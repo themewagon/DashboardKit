@@ -57,7 +57,7 @@ const MainRoutes = {
     },
     {
       path: '/',
-      element: <GuestLayout />,
+      // element: <GuestLayout />,
       children: [
         {
           path: '/login',
