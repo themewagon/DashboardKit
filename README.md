@@ -2,17 +2,21 @@
 
 #### Preview
 
- - [Demo](https://themewagon.github.io//)
+ - [Demo](https://themewagon.github.io/DashboardKit/)
 
 #### Download
- - [Download from ThemeWagon]( https://themewagon.com/themes/)
+ - [Download from ThemeWagon]( https://themewagon.com/themes/DashboardKit)
  
  
 ## Getting Started
 
-Clone from Github 
+Clone from GitHub 
 ```
-https://github.com/themewagon/Gradient-Able-free-bootstrap-admin-template.git
+https://github.com/themewagon/DashboardKit.git
+```
+## Install Dependencies
+```
+npm i
 ```
 ## Run Local Server
 ```
@@ -27,6 +31,6 @@ Design and code is completely written by CodedThemes's design and development te
 ## License
 
  - Design and Code is Copyright &copy; [CodedThemes](https://www.codedthemes.com)
- - Licensed cover under [MIT]
+ - Licensed under [MIT]
  - Distributed by [ThemeWagon](https://themewagon.com)
 
