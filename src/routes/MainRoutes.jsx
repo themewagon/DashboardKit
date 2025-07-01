@@ -52,6 +52,10 @@ const MainRoutes = {
         {
           path: '/sample-page',
           element: <Sample />
+        },
+        {
+          path: '*',
+          element: <h1>Not Found</h1>
         }
       ]
     },
@@ -60,11 +64,11 @@ const MainRoutes = {
       element: <GuestLayout />,
       children: [
         {
-          path: 'login',
+          path: '/login',
           element: <Login />
         },
         {
-          path: 'register',
+          path: '/register',
           element: <Register />
         }
       ]

@@ -63,7 +63,7 @@ export default function NavItem({ item }) {
     );
   } else {
     subContent = (
-      <NavLink to={item.url} className={navLinkClass.join(' ')} target={itemTarget}>
+      <NavLink to={item.url} className={navLinkClass.join(' ')}>
         <NavIcon items={item} />
         {itemTitle}
       </NavLink>
